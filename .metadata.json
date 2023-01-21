@@ -1,5 +1,9 @@
 [
   {
+    "package": "ggplate",
+    "oncran": true
+  },
+  {
     "package": "protti",
     "oncran": true
   }
