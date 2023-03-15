@@ -1,10 +1,10 @@
 [
   {
-    "package": "protti",
+    "package": "ggplate",
     "oncran": true
   },
   {
-    "package": "ggplate",
+    "package": "protti",
     "oncran": true
   }
 ]
